@@ -1,4 +1,4 @@
-网页预览：https://heyu2019.github.io/heyuResume/
+网页预览：https://heyu2019.github.io/heyuResume/src/index.html
 
 ## 开发模式
 
